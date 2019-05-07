@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/warriors.png") no-repeat;
+    background-position: center 
+}
